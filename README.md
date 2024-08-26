@@ -1,2 +1,2 @@
 To Deploy Capstone
-Implemented Github webhook connectivity with Jenkins
+Implemented Github webhook connectivity with Jenkins to build docker image
