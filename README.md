@@ -1,4 +1,6 @@
 Application has been cloned and deployed as advised and it worked fine as expected. Uploaded the screenshot for the same
+
+
 Requested application had been dockerized and executed accordingly
 Docker has been automated via bash script .
 Version control has been done has requested by pushing the github code to dev branch
